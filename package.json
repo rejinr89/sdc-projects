@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "docx-pdf-pagecount": "^0.0.3",
+    "dotenv": "^16.4.5",
+    "jspdf": "^2.5.1",
+    "page-count": "^0.0.4",
+    "pdf-data-parser": "^1.2.10",
+    "pdf-parse": "^1.1.1",
+    "pdf2json": "^3.1.2"
+  }
+}
